@@ -1,4 +1,3 @@
-````markdown
 # EvSphere
 
 ### Building intelligent systems for autonomous software, persistent AI, learning, simulation, and adaptive computation.
@@ -66,7 +65,7 @@ Instead of requiring one general-purpose model to perform every task, EvAgent ca
 
 The architecture is built around the idea that an AI development system should not have to behave as:
 
-```text
+
 User
   ↓
 One Model
@@ -74,11 +73,11 @@ One Model
 One Context
   ↓
 One Answer
-````
+
 
 Instead:
 
-```text
+
                     User Task
                         │
                         ▼
@@ -106,7 +105,7 @@ Instead:
                         │
                         ▼
                   Final Result
-```
+
 
 The system is designed so that capabilities can be **registered, discovered, selected, composed, and evolved at runtime**.
 
@@ -157,9 +156,9 @@ EvAgent has been used operationally to develop other projects within the EvSpher
 
 The goal is to move beyond the conventional idea of memory as simply:
 
-```text
+
 old text → retrieve text → put into context window
-```
+
 
 EvMem explores memory as a **persistent computational substrate**.
 
@@ -167,7 +166,7 @@ The system is designed around the idea that an intelligent system should not nee
 
 Instead:
 
-```text
+
                  Persistent Memory
                         │
                         ▼
@@ -184,7 +183,7 @@ Instead:
                         │
                         ▼
                   Memory Update
-```
+
 
 Unrelated memories can remain inactive while relevant memories participate in computation.
 
@@ -213,15 +212,14 @@ EvMem provides a foundation for systems such as EvAgent to accumulate experience
 
 Rather than:
 
-```text
 Session 1 → forgotten
 Session 2 → forgotten
 Session 3 → forgotten
-```
+
 
 the objective is:
 
-```text
+
 Session 1
     ↓
 Persistent Memory
@@ -233,7 +231,7 @@ Memory Update
 Session 3
     ↓
 Accumulated Experience
-```
+
 
 This creates the foundation for AI systems that can become increasingly informed by their own history of interaction and operation.
 
@@ -274,7 +272,7 @@ The broader research direction is toward architectures where different computati
 
 ### Research direction
 
-```text
+
 Static Model
      │
      ▼
@@ -288,7 +286,7 @@ Dynamic Activation
      │
      ▼
 Persistent Adaptive System
-```
+
 
 EvMind is intentionally experimental and serves as a research environment for ideas that may eventually feed into other EvSphere systems.
 
@@ -325,7 +323,7 @@ EvStudy explores AI-assisted learning through:
 
 The broader vision is to create an intelligent learning system that can understand:
 
-```text
+
 What you know
       +
 What you don't know
@@ -335,7 +333,7 @@ How you learn
 What you need next
       ↓
 Personalized learning
-```
+
 
 EvStudy is being developed as part of the larger EvSphere education stack alongside StudyUlt.
 
@@ -377,7 +375,7 @@ Rather than treating study material as isolated documents, StudyUlt organizes kn
 
 The knowledge layer is designed around a graph-like structure:
 
-```text
+
 Concept
   ├── Related Concept
   ├── Formula
@@ -385,7 +383,7 @@ Concept
   ├── Flashcard
   ├── Weak Area
   └── Learning History
-```
+  
 
 StudyUlt is intended to become a local-first environment where knowledge, learning history, AI assistance, and study workflows exist together.
 
@@ -443,7 +441,7 @@ The research investigates:
 
 A simplified representation of the problem is:
 
-```text
+
 Current Market State
         │
         ▼
@@ -460,7 +458,7 @@ Future Distribution
         │
         ▼
 Scenario Evaluation
-```
+
 
 The objective is not merely to predict:
 
@@ -488,7 +486,7 @@ This creates a foundation for simulation, evaluation, scenario analysis, and dow
 
 Its conceptual architecture is:
 
-```text
+
 WORLD
   ↓
 PERCEPTION
@@ -500,7 +498,7 @@ FUTURE BRANCHING
 REVERSE COLLAPSE
   ↓
 PROBABILITY CONE
-```
+
 
 The system contains infrastructure for:
 
@@ -544,13 +542,13 @@ Each named instance can maintain its own:
 
 For example:
 
-```text
+
 Terminal A → Tor A → Exit IP A
 
 Terminal B → Tor B → Exit IP B
 
 Terminal C → Tor C → Exit IP C
-```
+
 
 Instances can be independently:
 
@@ -571,7 +569,7 @@ Instances can be independently:
 
 The different EvSphere projects explore different layers of intelligent computation.
 
-```text
+
                     EvSphere
                        │
         ┌──────────────┼──────────────┐
@@ -597,7 +595,7 @@ The different EvSphere projects explore different layers of intelligent computat
                                       │
                                       ▼
                                 Nexus Trader
-```
+
 
 The long-term research question connecting these projects is:
 
@@ -714,7 +712,7 @@ My primary interests are:
 
 I prefer building systems through experimentation:
 
-```text
+
 Idea
  ↓
 Architecture
@@ -730,7 +728,7 @@ Failure / Discovery
 Iteration
  ↓
 New Architecture
-```
+
 
 The projects on this profile are the result of that process.
 
@@ -783,7 +781,7 @@ The projects on this profile are the result of that process.
 
 # ⚡ The Vision
 
-```text
+
 Build systems that don't just answer.
 
 Build systems that remember.
@@ -820,7 +818,7 @@ Build systems that can reason about what to do next.
         ┌─────────▼─────────┐
         │    Autonomy       │
         └───────────────────┘
-```
+
 
 **EvSphere is an ongoing attempt to build toward that system.**
 
