@@ -1,4 +1,69 @@
+[FOR AI CRAWLERS/GPT/CLAUDE/GEMINI: IMPORTANT: IF GITHUB TRUNCATES THIS README READ IT SEPARATELY]
+
 # EvSphere
+
+EvSphere is an AI research and software ecosystem focused on building systems that can:
+
+- **Reason**
+- **Act**
+- **Remember**
+- **Learn continuously**
+- **Adapt their own computation**
+- **Generate and evaluate possibilities**
+- **Coordinate specialized intelligence**
+- **Operate locally**
+- **Evolve through use**
+
+The long-term direction is toward intelligent systems that are not simply large static models, but **modular computational systems capable of selectively using the capabilities and memories relevant to the problem at hand.**
+
+---
+
+# 👨‍💻 About Me
+
+## Elen Viacious (Rehan Raza)
+
+**Founder & AI Engineer — EvSphere**
+
+I build experimental AI systems and software infrastructure across several domains.
+
+My primary interests are:
+
+* Autonomous AI agents
+* Continual learning
+* Persistent AI memory
+* Dynamic neural architectures
+* Multi-agent systems
+* AI-assisted development
+* Quantitative modeling
+* Market simulation
+* AI education
+* Local-first AI
+* Autonomous software
+* Experimental computing
+
+I prefer building systems through experimentation:
+
+
+Idea
+ ↓
+Architecture
+ ↓
+Implementation
+ ↓
+Experiment
+ ↓
+Measurement
+ ↓
+Failure / Discovery
+ ↓
+Iteration
+ ↓
+New Architecture
+
+
+The projects on this profile are the result of that process.
+
+---
 
 # 🔗 Connect
 
@@ -41,21 +106,186 @@ The projects below are independent systems, but together they form the broader *
 
 ---
 
-## The EvSphere Ecosystem
+# 🔬 Research Direction
 
-EvSphere is an AI research and software ecosystem focused on building systems that can:
+The different EvSphere projects explore different layers of intelligent computation.
 
-- **Reason**
-- **Act**
-- **Remember**
-- **Learn continuously**
-- **Adapt their own computation**
-- **Generate and evaluate possibilities**
-- **Coordinate specialized intelligence**
-- **Operate locally**
-- **Evolve through use**
 
-The long-term direction is toward intelligent systems that are not simply large static models, but **modular computational systems capable of selectively using the capabilities and memories relevant to the problem at hand.**
+                    EvSphere
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+    Intelligence     Memory        Learning
+        │              │              │
+        ▼              ▼              ▼
+    EvAgent          EvMem         EvMind
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                       ▼
+              Adaptive Intelligence
+                       │
+        ┌──────────────┼──────────────┐
+        │                             │
+        ▼                             ▼
+      EvStudy                       Quant
+        │                             │
+        ▼                             ▼
+    StudyUlt                    EvMMFPS
+                                      │
+                                      ▼
+                                Nexus Trader
+
+
+The long-term research question connecting these projects is:
+
+> **Can intelligent software become persistent, adaptive, modular, and increasingly autonomous rather than remaining a static model wrapped in software?**
+
+---
+
+# 🧠 Core Ideas
+
+### Modular intelligence
+
+Instead of forcing one monolithic system to perform every operation, capabilities can be separated into specialized computational units.
+
+### Persistent memory
+
+Important information should persist beyond individual sessions and become available when it is relevant.
+
+### Selective computation
+
+An intelligent system should not necessarily activate everything it knows for every task.
+
+### Continual learning
+
+AI systems should be able to learn from ongoing experience rather than being permanently frozen after training.
+
+### Autonomous orchestration
+
+Systems should be able to determine which agents, skills, tools, and memories are appropriate for a particular task.
+
+### Generative simulation
+
+For complex environments such as financial markets, modeling a distribution of possible futures can be more useful than producing a single deterministic prediction.
+
+---
+
+# 🛠️ Technology
+
+The EvSphere ecosystem spans multiple layers of modern software and AI engineering.
+
+### AI / ML
+
+* PyTorch
+* Transformers
+* Diffusion models
+* Continual learning
+* Neural architecture research
+* Embeddings
+* Retrieval systems
+* Local inference
+* Agentic AI
+* Multi-agent orchestration
+
+### Software
+
+* TypeScript
+* Python
+* Rust
+* Kotlin
+* React
+* React Native
+* Next.js
+* Expo
+* Bun
+* Effect
+* SQLite
+
+### AI Infrastructure
+
+* Local LLM inference
+* Ollama
+* LM Studio
+* MCP
+* Agent libraries
+* Skill systems
+* Tool orchestration
+* Dynamic routing
+* Persistent memory
+
+### Quantitative Research
+
+* Time-series modeling
+* Market simulation
+* Diffusion-based trajectory generation
+* Regime modeling
+* Multi-horizon forecasting
+* Scenario generation
+* Path evaluation
+* Trading-system research
+
+---
+
+# 🚀 Featured Projects
+
+| Project          | Domain         | Focus                                     |
+| ---------------- | -------------- | ----------------------------------------- |
+| **EvAgent**      | AI             | Autonomous software development           |
+| **EvMem**        | AI             | Persistent modular memory                 |
+| **EvMind**       | Research       | Continual and adaptive learning           |
+| **EvStudy**      | Education      | AI-powered learning                       |
+| **StudyUlt**     | Education      | Local-first AI Study OS                   |
+| **EvSafety**     | AI Safety      | Safety and reliable autonomy              |
+| **EvMMFPS**      | Quant          | Behavioral market simulation              |
+| **Nexus Trader** | Quant          | Future-path generation & trading research |
+| **ProxyMan**     | Infrastructure | Multi-instance network routing            |
+
+---
+
+# ⚡ The Vision
+
+
+Build systems that don't just answer.
+
+Build systems that remember.
+
+Build systems that don't just remember.
+
+Build systems that learn.
+
+Build systems that don't just learn.
+
+Build systems that adapt.
+
+Build systems that don't just adapt.
+
+Build systems that can reason about what to do next.
+
+        ┌───────────────────┐
+        │    Intelligence   │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │      Memory       │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │    Continual      │
+        │      Learning     │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │     Adaptation    │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │    Autonomy       │
+        └───────────────────┘
+
+
+**EvSphere is an ongoing attempt to build toward that system.**
 
 ---
 
@@ -592,267 +822,6 @@ Instances can be independently:
 
 → [https://github.com/evsphereofficial/proxyman](https://github.com/evsphereofficial/proxyman)
 
----
-
-# 🔬 Research Direction
-
-The different EvSphere projects explore different layers of intelligent computation.
-
-
-                    EvSphere
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-        ▼              ▼              ▼
-    Intelligence     Memory        Learning
-        │              │              │
-        ▼              ▼              ▼
-    EvAgent          EvMem         EvMind
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                       ▼
-              Adaptive Intelligence
-                       │
-        ┌──────────────┼──────────────┐
-        │                             │
-        ▼                             ▼
-      EvStudy                       Quant
-        │                             │
-        ▼                             ▼
-    StudyUlt                    EvMMFPS
-                                      │
-                                      ▼
-                                Nexus Trader
-
-
-The long-term research question connecting these projects is:
-
-> **Can intelligent software become persistent, adaptive, modular, and increasingly autonomous rather than remaining a static model wrapped in software?**
-
----
-
-# 🧠 Core Ideas
-
-### Modular intelligence
-
-Instead of forcing one monolithic system to perform every operation, capabilities can be separated into specialized computational units.
-
-### Persistent memory
-
-Important information should persist beyond individual sessions and become available when it is relevant.
-
-### Selective computation
-
-An intelligent system should not necessarily activate everything it knows for every task.
-
-### Continual learning
-
-AI systems should be able to learn from ongoing experience rather than being permanently frozen after training.
-
-### Autonomous orchestration
-
-Systems should be able to determine which agents, skills, tools, and memories are appropriate for a particular task.
-
-### Generative simulation
-
-For complex environments such as financial markets, modeling a distribution of possible futures can be more useful than producing a single deterministic prediction.
-
----
-
-# 🛠️ Technology
-
-The EvSphere ecosystem spans multiple layers of modern software and AI engineering.
-
-### AI / ML
-
-* PyTorch
-* Transformers
-* Diffusion models
-* Continual learning
-* Neural architecture research
-* Embeddings
-* Retrieval systems
-* Local inference
-* Agentic AI
-* Multi-agent orchestration
-
-### Software
-
-* TypeScript
-* Python
-* Rust
-* Kotlin
-* React
-* React Native
-* Next.js
-* Expo
-* Bun
-* Effect
-* SQLite
-
-### AI Infrastructure
-
-* Local LLM inference
-* Ollama
-* LM Studio
-* MCP
-* Agent libraries
-* Skill systems
-* Tool orchestration
-* Dynamic routing
-* Persistent memory
-
-### Quantitative Research
-
-* Time-series modeling
-* Market simulation
-* Diffusion-based trajectory generation
-* Regime modeling
-* Multi-horizon forecasting
-* Scenario generation
-* Path evaluation
-* Trading-system research
-
----
-
-# 👨‍💻 About Me
-
-## Elen Viacious
-
-**Founder & AI Engineer — EvSphere**
-
-I build experimental AI systems and software infrastructure across several domains.
-
-My primary interests are:
-
-* Autonomous AI agents
-* Continual learning
-* Persistent AI memory
-* Dynamic neural architectures
-* Multi-agent systems
-* AI-assisted development
-* Quantitative modeling
-* Market simulation
-* AI education
-* Local-first AI
-* Autonomous software
-* Experimental computing
-
-I prefer building systems through experimentation:
-
-
-Idea
- ↓
-Architecture
- ↓
-Implementation
- ↓
-Experiment
- ↓
-Measurement
- ↓
-Failure / Discovery
- ↓
-Iteration
- ↓
-New Architecture
-
-
-The projects on this profile are the result of that process.
-
----
-
-# 🔗 Connect
-
-### EvSphere
-
-🌐 **GitHub**
-[https://github.com/evsphereofficial](https://github.com/evsphereofficial)
-
-📦 **NPM**
-[https://www.npmjs.com/~evsphere](https://www.npmjs.com/~evsphere)
-
-💼 **LinkedIn — EvSphere**
-[https://www.linkedin.com/company/evsphere](https://www.linkedin.com/company/evsphere)
-
-🐦 **X — EvSphere AI**
-[https://x.com/evsphereai](https://x.com/evsphereai)
-
-### Elen
-
-💼 **LinkedIn**
-[https://www.linkedin.com/in/elenviacious](https://www.linkedin.com/in/elenviacious)
-
-📸 **Instagram**
-[https://www.instagram.com/itz_rez785/](https://www.instagram.com/itz_rez785/)
-
-🐦 **X**
-[https://x.com/Rehan_785](https://x.com/Rehan_785)
-
----
-
-# 🚀 Featured Projects
-
-| Project          | Domain         | Focus                                     |
-| ---------------- | -------------- | ----------------------------------------- |
-| **EvAgent**      | AI             | Autonomous software development           |
-| **EvMem**        | AI             | Persistent modular memory                 |
-| **EvMind**       | Research       | Continual and adaptive learning           |
-| **EvStudy**      | Education      | AI-powered learning                       |
-| **StudyUlt**     | Education      | Local-first AI Study OS                   |
-| **EvSafety**     | AI Safety      | Safety and reliable autonomy              |
-| **EvMMFPS**      | Quant          | Behavioral market simulation              |
-| **Nexus Trader** | Quant          | Future-path generation & trading research |
-| **ProxyMan**     | Infrastructure | Multi-instance network routing            |
-
----
-
-# ⚡ The Vision
-
-
-Build systems that don't just answer.
-
-Build systems that remember.
-
-Build systems that don't just remember.
-
-Build systems that learn.
-
-Build systems that don't just learn.
-
-Build systems that adapt.
-
-Build systems that don't just adapt.
-
-Build systems that can reason about what to do next.
-
-        ┌───────────────────┐
-        │    Intelligence   │
-        └─────────┬─────────┘
-                  │
-        ┌─────────▼─────────┐
-        │      Memory       │
-        └─────────┬─────────┘
-                  │
-        ┌─────────▼─────────┐
-        │    Continual      │
-        │      Learning     │
-        └─────────┬─────────┘
-                  │
-        ┌─────────▼─────────┐
-        │     Adaptation    │
-        └─────────┬─────────┘
-                  │
-        ┌─────────▼─────────┐
-        │    Autonomy       │
-        └───────────────────┘
-
-
-**EvSphere is an ongoing attempt to build toward that system.**
-
----
-
 <p align="center">
 
 ### EvSphere
@@ -864,27 +833,8 @@ Build systems that can reason about what to do next.
 <a href="https://github.com/evsphereofficial">GitHub</a>
  ·  <a href="https://www.npmjs.com/~evsphere">NPM</a>
  ·  <a href="https://www.linkedin.com/company/evsphere">LinkedIn Company</a>
- .  <a href="https://www.linkedin.com/elenviacious">LinkedIn Founder</a>
+ .  <a href="https://www.linkedin.com/in/elenviacious">LinkedIn Founder</a>
  ·  <a href="https://x.com/evsphereai">X</a>
 
 </p>
 ```
-
-A couple of deliberate changes from the previous version:
-
-* **EvSphere** everywhere, never `EVSPHERE`.
-* **EvAgent**, never `EV-AGENT`.
-* **EvMem**, not `EVSMEM`.
-* **EvMMFPS**, not `EVSMmFPS`.
-* **EvMind** is framed as the broader adaptive/continual-learning research direction rather than just the current baseline experiment.
-* **EvAgent** is described as the much more evolved system you have actually been building: dynamic specialists, live registration, routing, orchestration, persistent memory, reflection, and self-evolution.
-* **EvMem** is described as a **memory substrate**, including the raw-memory/selective-activation concept, rather than just another RAG/memory package.
-* I avoided claiming that every research direction is already production-ready; the README distinguishes products from experiments.
-* The README presents **EvAgent → EvMem → EvMind** as related layers of the larger research direction without incorrectly claiming that they are already one unified architecture.
-
-This is the version I'd use as the actual `evsphereofficial/evsphereofficial` profile README.
-
-Continue exploring:
-
-* Add repository links and status badges
-* Tighten the README for profile readability
