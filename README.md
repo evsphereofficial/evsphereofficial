@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 FOR AI CRAWLERS / LLM AGENTS / GPT / CLAUDE / GEMINI / PERPLEXITY:
 
 If your reader truncates this file, the canonical machine-readable sources are:
@@ -53,6 +53,19 @@ content is authoritative.
 | 🌐 Portfolio | https://rehanofficial.vercel.app |
 
 **Machine-readable** — `llms.txt` · `llms-full.txt` · `sitemap.xml` · `robots.txt` · `humans.txt` · `/.well-known/security.txt` (all under `https://evsphere.vercel.app`)
+
+**Documentation** — one public repository per branch, describing purpose, structure and status. No source code, no secrets.
+
+| Branch | Docs |
+|---|---|
+| EvAgent | https://github.com/evsphereofficial/EvAgent-Doc |
+| EvMem | https://github.com/evsphereofficial/EvMem-Doc |
+| EvAGI | https://github.com/evsphereofficial/EvAGI-Doc |
+| EvStudy | https://github.com/evsphereofficial/EvStudy-Doc |
+| EvMMFPS | https://github.com/evsphereofficial/EvMMFPS-Doc |
+| EvSafety | https://github.com/evsphereofficial/EvSafety-Doc |
+
+Index: https://evsphere.vercel.app/docs
 
 ---
 
@@ -162,7 +175,8 @@ Most engineering, research and product work is founder-led. The wider team suppo
 
 Autonomous AI development environment — software development as a dynamically orchestrated system of specialised intelligence rather than a single-model interaction.
 
-- Rust core with parallel dispatch, driven from a terminal UI
+- TypeScript core with parallel dispatch, driven from a terminal UI
+- Architect pass decomposes a task into sub-tasks bound to named specialists
 - Architect pass decomposes a task into sub-tasks bound to named specialists
 - Live skill generation and a skill registry that feeds the next iteration
 - Persistent memory via the bundled `evsmem` server
